@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of papers relating to the calling and holding the Convention of Estates of England, at Westminster upon the 22d. of January 1688[/]9. and the meeting of the Estates of Scotland at Edinburgh the 14 of March 1689. and to the procedures in the conveyances of the crowns of Great Britain To which is prefixed an index of the said papers.</title>
+         </titleStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80109</idno><idno type="EEBO-CITATION">99895420</idno>
+  <idno type="VID">152916</idno>
+  <idno type="EEBO-PROQUEST">2248567231</idno>
+  
+            <idno type="STC">Wing C5169</idno>
+            <idno type="STC">ESTC R224307</idno>
+            <idno type="PROQUEST">99895420</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895420e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80109)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2333:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of papers relating to the calling and holding the Convention of Estates of England, at Westminster upon the 22d. of January 1688[/]9. and the meeting of the Estates of Scotland at Edinburgh the 14 of March 1689. and to the procedures in the conveyances of the crowns of Great Britain To which is prefixed an index of the said papers.</title>
+               </titleStmt>
+               <extent>[2], 32, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>printed anno Dom. MDCLXXXIX. [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Scotland --  History --  1689-1745 --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Revolution of 1688 --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Revolution of 1688 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152916:1"/>
+            <p>A COLLECTION OF PAPERS RELATING TO The Calling and Holding the Convention of ESTATES OF ENGLAND, At <hi>Westminster</hi> upon the <hi>22d.</hi> of <hi>January</hi> 1688/9.</p>
+            <p>AND THE MEETING of ESTATES OF SCOTLAND At <hi>Edinburgh</hi> the 14 of <hi>March</hi> 1689.</p>
+            <p>AND TO THE Procedures in the Conveyances of the CROWNS OF GREAT BRITAIN.</p>
+            <p>To Which is prefixed an INDEX of the said PAPERS.</p>
+            <p>EDINBURGH, Printed <hi>Anno Dom.</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="collection_of_documents">
+            <pb facs="tcp:152916:2"/>
+            <pb n="1" facs="tcp:152916:2"/>
+            <head>A COLLECTION OF THE PAPERS RELATING TO ENGLAND.</head>
+            <div type="declaration">
+               <head>The <hi>DECLARATION</hi> of the <hi>LORDS</hi> Spiritual and Temporal in and about the Cities of <hi>London</hi> and <hi>Westminster</hi> Assembled at <hi>Guildhall 11 De<g ref="char:EOLhyphen"/>cember 1688.</hi>
+               </head>
+               <p>WE doubt not but the World believes that, in this Great and Dangerous Conjuncture, We are heartily and zea<g ref="char:EOLhyphen"/>lously concerned for the Protestant Religion, the Laws of the Land, and the Liberties and Properties of the Subject. And We did reasonably hope, that the King having Issued His Proclamation, and Writs for a Free Parliament, We might have rested Secure under the Expectation of that Meeting: But His Ma<g ref="char:EOLhyphen"/>jesty having withdrawn Himself, and as We apprehend, in order to His De<g ref="char:EOLhyphen"/>parture out of this Kingdom, by the Pernicious Counsels of Persons ill
+<pb n="2" facs="tcp:152916:3"/> Affected to Our Nation and Religion; We cannot, without being wanting to Our Duty, be silent under those Calamities, wherein the Popish Coun<g ref="char:EOLhyphen"/>sels which so long prevailed, have miserably involved these Realms. We do therefore Unanimously resolve to apply Our Selves to his Highness the Prince of <hi>Orange,</hi> who with so great Kindness to these Kingdoms, so vast Expence, and so much hazard to his own Person, hath Undertaken, by endeavouring to procure a Free Parliament, to rescue Us, with as little Effusion, as possible, of Christian Blood from the imminent Dangers of Popery and Slavery.</p>
+               <p>And We do hereby Declare, That We will, with our utmost Endeavours, assist his Highness in the obtaining such a Parliament with all speed, wherein Our Laws, Our Liberties and Properties may be Secured, the Church of <hi>England</hi> in particular, with a due Liberty to Protestant Dissenters, and in general the Protestant Religion and Interest over the whole World may be Supported and Encouraged, to the Glory of God, the Happiness of the Established Government in these Kingdoms, and the Advantage of all Princes and States in Christendom, that may be herein concerned.</p>
+               <p>In the mean time, We will Endeavour to preserve, as much as in Us lies, the Peace and Security of these great and populous Cities of <hi>London</hi> and <hi>Westminster,</hi> and the parts Adjacent, by taking Care to Disarm all Papists, and Secure all Jesuits and Romish Priests; who are in and about the same.</p>
+               <p>And if there be any thing more to be performed by Us, for promoting his Highness's Generous Intentions for the publick Good, We shall be ready to do it as occasion shall Require.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>W. Cant.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Ebor.</hi>
+                        </item>
+                        <item>
+                           <hi>Pembroke.</hi>
+                        </item>
+                        <item>
+                           <hi>Dor set.</hi>
+                        </item>
+                        <item>
+                           <hi>Mulgrave.</hi>
+                        </item>
+                        <item>
+                           <hi>Thanet.</hi>
+                        </item>
+                        <item>
+                           <hi>Carlisle.</hi>
+                        </item>
+                        <item>
+                           <hi>Craven.</hi>
+                        </item>
+                        <item>
+                           <hi>Ailesbury</hi>
+                        </item>
+                        <item>
+                           <hi>Burlington.</hi>
+                        </item>
+                        <item>
+                           <hi>Sussex.</hi>
+                        </item>
+                        <item>
+                           <hi>Berkeley,</hi>
+                        </item>
+                        <item>
+                           <hi>Rochester.</hi>
+                        </item>
+                        <item>
+                           <hi>Newport.</hi>
+                        </item>
+                        <item>
+                           <hi>Weymouth.</hi>
+                        </item>
+                        <item>
+                           <hi>P Winchester</hi>
+                        </item>
+                        <item>
+                           <hi>W. Asaph.</hi>
+                        </item>
+                        <item>
+                           <hi>Fran. Ely.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Roffen.</hi>
+                        </item>
+                        <item>
+                           <hi>Tho. Petriburg.</hi>
+                        </item>
+                        <item>
+                           <hi>P. Wharton.</hi>
+                        </item>
+                        <item>
+                           <hi>North</hi> &amp; <hi>Gray.</hi>
+                        </item>
+                        <item>
+                           <hi>Chandos.</hi>
+                        </item>
+                        <item>
+                           <hi>Montague.</hi>
+                        </item>
+                        <item>
+                           <hi>T. Jermyn.</hi>
+                        </item>
+                        <item>
+                           <hi>Vaughan Carbery</hi>
+                        </item>
+                        <item>
+                           <hi>Culpeper.</hi>
+                        </item>
+                        <item>
+                           <hi>Crewe.</hi>
+                        </item>
+                        <item>
+                           <hi>Osulston.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="document">
+               <p>WHereas His Majesty hath privately this Morning withdrawn Him<g ref="char:EOLhyphen"/>self, We the Lords Spiritual and Temporal, whose Names are Subscribed, being assembled at <hi>Guildhall</hi> in <hi>London,</hi> having agreed upon, and Signed a Declaration, Intituled, <hi>The Declaration of the Lords Spiri<g ref="char:EOLhyphen"/>tual and Temporal, in and about the Cities of</hi> London <hi>and</hi> Westminster,
+<pb n="3" facs="tcp:152916:3"/>
+                  <hi>assembled at</hi> Guildhall, 11 Dec. 1688. Do desire the Right Honourable the Earl of <hi>Pembroke,</hi> the Right Honourable the Lord Viscount <hi>Weymouth,</hi> the Reverend Father in God the Lord Bishop of <hi>Ely</hi> and the Right Honour<g ref="char:EOLhyphen"/>able the Lord <hi>Culpeper,</hi> forthwith to attend his Highness the Prince of <hi>Orange</hi> with the said Declaration, and at the same time acquaint his High<g ref="char:EOLhyphen"/>ness with what We have farther done at the Meeting. Dated at <hi>Guildhall</hi> the 11th of <hi>December</hi> 1688.</p>
+            </div>
+            <div type="order">
+               <p>
+                  <hi>WE the Peers of this Realm, being assembled with some of the Lords of the Privy Council, Do hereby</hi>
+                  <note place="margin">To <hi>Edward Jones</hi> Printer at the <hi>Savoy.</hi>
+                  </note>
+                  <hi>Order and Require You forthwith to print and publish the Declaration herewith sent unto You. At the Council-Cham<g ref="char:EOLhyphen"/>ber in</hi> Whitehal, <hi>the</hi> 12th <hi>of</hi> December 1688.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Tho. Ebor.</item>
+                        <item>Halifax.</item>
+                        <item>Kent.</item>
+                        <item>Anglesey.</item>
+                        <item>Carlisle.</item>
+                        <item>Ailesbury.</item>
+                        <item>Sussex.</item>
+                        <item>Berkeley.</item>
+                        <item>Nottingham.</item>
+                        <item>P. Winchester.</item>
+                        <item>Tho. Petriburg</item>
+                        <item>Tho. Roffen.</item>
+                        <item>North <hi>and</hi> Grey.</item>
+                        <item>Chandos.</item>
+                        <item>T. Jermyn.</item>
+                        <item>Crewe.</item>
+                        <item>Osulston.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>The <hi>LORDS</hi> Spiritual and Temporal Assembled at the House of Lords, <hi>West<g ref="char:EOLhyphen"/>minster</hi> December 25. 1688.</head>
+               <p>WE the Lords Spiritual and Temporal Assembled in this Conjuncture, Do Desire Your Highness to take upon You the Administration of publick Affairs, both Civil and Military, and the Disposal of the pub<g ref="char:EOLhyphen"/>lick Revenue, for the preservation of our Religion, Rights, Laws, Liberties and Properties, and of the Peace of the Nation; And that Your Highness will take into Your particular Care, the present condition of <hi>Ireland,</hi> and endeavour by the most speedy and effectual means, to prevent the Dangers threatning that Kingdom: All which we make our Requests to Your High<g ref="char:EOLhyphen"/>ness to undertake, and exercise, till the Meeting of the intended Conven<g ref="char:EOLhyphen"/>tion, the Two and twentieth of <hi>January</hi> next; in which we doubt not such proper Methods will be taken, as will conduce to the Establishment of these things upon such sure and Legal Foundations, that they may not be in Dan<g ref="char:EOLhyphen"/>ger of being again subverted</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at the House of Lords,</hi> Westminster, <date>December <hi>the five and twentieth,</hi> 1688.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="4" facs="tcp:152916:4"/>
+               <p>WE the Lords Spiritual and Temporal Assembled at <hi>Westminster</hi> in this Extraordinary Conjuncture, Do humbly Desire Your High<g ref="char:EOLhyphen"/>ness to cause Letters to be written, subscribed by Your self, to the Lords Spiritual and Temporal, being PROTESTANTS, and to the several Counties, Universities, Cities, Boroughs, and Cinque ports of <hi>England, Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Twede;</hi> the Letters for the Counties to be directed to the Coroners of the respective Counties; or any of them, and in Default of the Coroners the Clerk of the Peace of the respective Counties; and the Letters for the Universities to be directed to the re<g ref="char:EOLhyphen"/>spective Vice-Chancellors; and the Letters to the several Cities, Bo<g ref="char:EOLhyphen"/>roughs, and Cinque-ports, to be directed to the chief Magistrate of each respective City, Borough and Cinque-port, containing directions for the choosing in all such Counties, Cities, Universities, Boroughs and Cinque<g ref="char:EOLhyphen"/>ports, within ten Days after the receipt of the said respective Letters, such a number of persons to represent them as are of right to be sent to Parlia<g ref="char:EOLhyphen"/>ment; of which Elections, and the times and places thereof, the respective Officers shall give notice within the space of five Days at least. Notice of the intended Elections for the Counties to be published in the Churches im<g ref="char:EOLhyphen"/>mediately after the time of <hi>Divine-Service,</hi> and in all Market-Towns with<g ref="char:EOLhyphen"/>in the respective Counties; and notice of the intended Elections for the Cities, Universities, Boroughs, and Cinque-ports, to be published within the said respective places. The said Letters and the Execution thereof to be returned by such an Officer and Officers, who shall excute the same, to the Clerk of the Crown in the Court of <hi>Chancery,</hi> so as the persons so to be chosen may meet and sit at <hi>Westminster</hi> on the two and twentieth Day of <hi>January</hi> next.</p>
+               <closer>
+                  <dateline>
+                     <hi>Dated at the House of Lords,</hi> Westminster, <date>December <hi>the</hi> 25th. 1688,</date>
+                  </dateline>
+               </closer>
+               <argument>
+                  <p>Both which were Signed by all the Lords Spiritual and Temporal then Assembled, and presented to His Highness the <hi>Prince of ORANGE</hi> the same day at St. <hi>James</hi>'s.</p>
+               </argument>
+            </div>
+            <div type="document">
+               <head>His Highness the Prince of ORANGE'S Answer to the Lords Spiritual and Temporal, at St. <hi>James</hi>'s <hi>December</hi> 28. 1688.</head>
+               <opener>
+                  <salute>MY LORDS,</salute>
+               </opener>
+               <p>I <hi>Have considered of Your Advice, and as far as I am able, I will endea<g ref="char:EOLhyphen"/>vour to secure the Peace of the Nation, until the Meeting of the Con<g ref="char:EOLhyphen"/>vention
+<pb n="5" facs="tcp:152916:4"/> in</hi> January <hi>next, for the Election whereof I will forthwith issue out Letters according to your Desire; I will also take care to apply the publick Revenue to the most proper Ʋses, that the present Affairs require; and likewise endeavour to put</hi> Ireland <hi>into such a Condition as that the</hi> PROTE<g ref="char:EOLhyphen"/>STANT RELIGION, <hi>and the</hi> English <hi>Interest may be Maintained in that Kingdom: And I farther assure you, That as I came hither for the preser<g ref="char:EOLhyphen"/>vation of the</hi> PROTESTANT RELIGION, <hi>and the Laws and Liberties of these Kingdoms, so I shall always be ready to Expose myself to any Ha<g ref="char:EOLhyphen"/>zard for the Defence of the same.</hi>
+               </p>
+            </div>
+            <div type="declaration">
+               <opener>
+                  <dateline>
+                     <date>Die <hi>Martis,</hi> 12 Februarii, 1689.</date>
+                  </dateline>
+               </opener>
+               <head>The Declaration of the <hi>Lords</hi> Spiritual and Temporal, and <hi>Commons</hi> Assembled at <hi>Westminster,</hi> Presented to the <hi>King</hi> and <hi>Queen</hi> by the Right Honourable the Marquess of <hi>Hallifax</hi> Speaker to the <hi>House of Lords.</hi> With <hi>His Majesty</hi>'s most Gracious Answer thereunto.</head>
+               <p>WHereas the late King <hi>James</hi> the Second, by the Assistance of divers Evil Counsellors, Judges, and Ministers Employ'd by Him, did endeavour to Subvert and Extirpate the Protestant Religion, and the Laws and Liberties of this Kingdom;</p>
+               <p>By Assuming and Exercising a Power of Dispensing with, and Suspend<g ref="char:EOLhyphen"/>ing of Laws, and the Execution of Laws, without Consent of Parliament</p>
+               <p>By Committing and Prosecuting divers worthy Prelates, for humbly Pe<g ref="char:EOLhyphen"/>titioning to be Excused from concurring to the said assumed Power.</p>
+               <p>By issuing, and causing to be Executed, a Commission under the Great Seal for erecting a Court called. <hi>The Court of Commissioners for Ecclesiasti<g ref="char:EOLhyphen"/>cal Causes.</hi>
+               </p>
+               <p>By Levying Money for and to the Use of the Crown, by pretence of Pre<g ref="char:EOLhyphen"/>rogative, for other time, and in other manner, than the same was granted by Parliament.</p>
+               <p>By raising and keeping a standing Army within this Kingdom in time of Peace, without Consent of Parliament; and Quartering Souldiers contrary to Law.</p>
+               <p>By causing several Good Subjects, being Protestants, to be Disarmed at the same time, when Papists were both Armed and Imployed contrary to Law.</p>
+               <p>By violating the Freedom of Election of Members to serve in Parliament.</p>
+               <pb n="6" facs="tcp:152916:5"/>
+               <p>By prosecutions in the Court of <hi>Kings-Bench</hi> for Matters and Causes cognizable only in <hi>Parliament;</hi> and by divers other Arbitrary and Illegal Courses.</p>
+               <p>And whereas of late years Partial, Corrupt, and Unqualified Persons, have been returned and served on Juries in Trials, and particularly divers Jurors in Trials for High Treason, which were not Freeholders.</p>
+               <p>And Excessive Bail hath been required of persons committed in Criminal Cases, to elude the benefit of the Laws made for Liberty of the Subjects.</p>
+               <p>And Excessive Fines have been imposed.</p>
+               <p>And Illegal and Cruel Punishments inflicted.</p>
+               <p>And several Grants and Promises made of Fines and Forfeitures before any Conviction or Judgment against the persons upon whom the same were to be levied.</p>
+               <p>All which are utterly and directly contrary to the known Laws and Sta<g ref="char:EOLhyphen"/>tutes, and Freedom of this Realm.</p>
+               <p>And whereas the said late King <hi>James</hi> the Second, having Abdicated the the Government, and the Throne being thereby vacant,</p>
+               <p>His Highness the Prince of <hi>Orange</hi> (whom it hath pleased Almighty God to make the Glorious Instrument of Delivering this Kingdom from Popery and Arbitrary Power) did (by the Advice of the Lords Spiritual and Temporal, and divers principal persons of the Commons) cause Letters to be written to the Lords Spiritual and Temporal, being Prote<g ref="char:EOLhyphen"/>stants, and other Letters to the several Counties, Cities, Universities, Bur<g ref="char:EOLhyphen"/>roughs, and Cinque ports, for the chusing such persons to represent them, as were of Right to be sent to Parliament, to Meet and Sit at <hi>Westminster</hi> upon the 22d. day of <hi>January</hi> in this year 1688 9 in order to such an Esta<g ref="char:EOLhyphen"/>blishment, as that their Religion, Laws and Liberties, might not again be in danger of being Subverted: Upon which Letters Elections having been accordingly made;</p>
+               <p>And thereupon the said Lords Spiritual and Temporal, and Commons, pursuant to their respective Letters and Elections, being now Assembled in a Full and Free Representative of this Nation, taking into their most serious Consideration the best Means for attaining the Ends aforesaid, do in the first place (as their Ancestors in like Case have usually done) for the Vindica<g ref="char:EOLhyphen"/>ting and Asserting their Antient Rights and Liberties, Declare,</p>
+               <p>That the pretended power of Suspending Laws, or the Execution of Laws, by Regal Authority, without Consent of Parliament, is Illegal.</p>
+               <pb n="7" facs="tcp:152916:5"/>
+               <p>That the pretended Power of Dispensing with Laws, or the Execution of Laws, by Regal Authority, as it hath been assumed and exercised of late, is Illegal.</p>
+               <p>That the Commission for erecting the late <hi>Court of Commissioners for Ec<g ref="char:EOLhyphen"/>clesiastical Causes,</hi> and all other Commissions and Courts of the like nature, are Illegal and Pernicious.</p>
+               <p>That levying Money for or to the Use of the Crown, by pretence of Prerogative, without Grant of Parliament, for longer time, or in other manner, than the same is or shall be granted, is Illegal.</p>
+               <p>That it is the Right of the Subjects to Petition the King, and all Com<g ref="char:EOLhyphen"/>mitments and Prosecutions for such Petitioning are Illegal.</p>
+               <p>That the raising or keeping a standing Army within the Kingdom in time of Peace, unless it be with Consent of Parliament, is against Law.</p>
+               <p>That the Subjects which are Protestants may have Arms for their De<g ref="char:EOLhyphen"/>fence suitable to their Condition, and as allowed by Law.</p>
+               <p>That Election of Members of Parliament ought to be free.</p>
+               <p>That the Freedom of Speech, and Debates or Proceedings in Parlia<g ref="char:EOLhyphen"/>ment, ought not to be impeached or questioned in any Court or place out of Parliament.</p>
+               <p>That Excessive Bail ought not to be required, nor Excessive Fines impo<g ref="char:EOLhyphen"/>sed, nor cruel and unusual Punishments inflicted.</p>
+               <p>That Jurors ought to be duly empannell'd and return'd, and Jurors which pass upon Men in Trials for High-Treason ought to be Freeholders.</p>
+               <p>That all Grants and Promises of Fines and Forfeitures of particular per<g ref="char:EOLhyphen"/>sons before Conviction, are Illegal and Void.</p>
+               <p>And that for redress of all Grievances, and for the amending, strengthen<g ref="char:EOLhyphen"/>ing and preserving of the Laws, Parliaments ought to be held frequently.</p>
+               <p>And they do claim, demand, and insist upon all and singular the Premi<g ref="char:EOLhyphen"/>ses, as their undoubted Rights and Liberties; and that no Declarations, Judgments, Doings, or Proceedings, to the prejudice of the people in any of the said premises, ought in any wise to be drawn hereafter into Con<g ref="char:EOLhyphen"/>sequence or Example.</p>
+               <p>To which Demand of their Rights they are particularly encouraged by the Declaration of His Highness the Prince of <hi>Orange.</hi> as being the only means for obtaining a full redress and remedy therein.</p>
+               <p>Having therefore an intire Confidence, that His said Highness the Prince of <hi>Orange</hi> will perfect the Deliverance so far advanced by Him, and will
+<pb n="8" facs="tcp:152916:6"/> still preserve them from the violation of their Right, which they have here asserted, and from all other Attempts upon their Religion, Rights, and Liberties;</p>
+               <p>The said Lords Spiritual and Temporal, and Commons assembled at <hi>Westminster</hi> do resolve.</p>
+               <p>That <hi>William</hi> and <hi>Mary</hi> Prince and Princess of <hi>Orange</hi> be, and be de<g ref="char:EOLhyphen"/>clared, King and Queen of <hi>England, France,</hi> and <hi>Ireland,</hi> and the Do<g ref="char:EOLhyphen"/>minions thereunto belonging, to hold the Crown and Royal Dignity of the said Kingdoms and Dominions, to Them the said Prince and Princess, du<g ref="char:EOLhyphen"/>ring their Lives, and the Life of the Surviver of them; And that the sole and full Exercise of the Regal Power be only in, and executed by, the said Prince of <hi>Orange,</hi> in the Names of the said Prince and Princess during their joint Lives; and after their Deceases, the said Crown and Royal Dignity of the said Kingdoms and Dominions to be to the Heirs of the Body of the said Princess; and for default of such Issue, to the Princess <hi>Ann</hi> of <hi>Denmark,</hi> and the Heirs of Her Body; and for default of such Issue, to Heirs of the Body of the said Prince of <hi>Orange.</hi>
+               </p>
+               <p>And the said Lords Spiritual and Temporal, and Commons, do pray the said Prince and Princess of <hi>Orange</hi> to accept the same accordingly.</p>
+               <p>And that the Oaths hereafter mentioned be taken by all persons of whom the Oaths of Allegiance and Supremacy might be required by Law, instead of them; and that the said Oaths of Allegiance and Supremacy be Ab<g ref="char:EOLhyphen"/>rogated.</p>
+               <q>
+                  <p>I <hi>A. B.</hi> do sincerely promise and swear, That I will be faithful, and bear true Allegiance to Their Majesties King <hi>WILLIAM</hi> and Queen <hi>MARY.</hi>
+                  </p>
+                  <p>So help me God.</p>
+               </q>
+               <q>
+                  <p>I <hi>A. B.</hi> do swear, That I do from my heart Abhor, Detest, and Ab<g ref="char:EOLhyphen"/>jure, as Impious and Heretical, this Damnable Doctrine and Position,<hi>That Princes Excommunicated or Deprived by the Pope, or any Autho<g ref="char:EOLhyphen"/>rity of the See of <hi>Rome,</hi> may be Deposed or Murthered by their Subjects, or any other whatsoever.</hi> And I do declare, That no Foreign Prince, Person, Prelate, State, or Potentate, hath, or ought to have any Juris<g ref="char:EOLhyphen"/>diction, Power, Supremacy, Pre-eminence, or Authority Ecclesiastical or Spiritual, within this Realm.</p>
+                  <p>So help me God.</p>
+               </q>
+               <closer>
+                  <signed>
+                     <hi>Jo. Brown,</hi> Cleric' Parl.</signed>
+               </closer>
+            </div>
+            <div rend="margQuotes" type="answer">
+               <pb n="9" facs="tcp:152916:6"/>
+               <opener>
+                  <dateline>
+                     <date>Die Veneris 15 <hi>Feb.</hi> 1688.</date>
+                  </dateline>
+               </opener>
+               <head>His Majesties Gracious ANSWER to the DECLARATION of Both HOUSES.</head>
+               <opener>
+                  <salute>My Lords and Gentlemen,</salute>
+               </opener>
+               <p>THis is certainly the greatest proof of the Trust you have in Us, that can be given, which is the thing that maketh Us value it the more; and We thankfully Accept what you have Offered. And as I had no o<g ref="char:EOLhyphen"/>ther Intention in coming hither, than to preserve your Religion, Laws and Liberties; so you may be sure, That I shall endeavour to support them, and shall be willing to concur in any thing that shall be for the good of the Kingdom, and to do all that is in My power to Advance the Welfare and Glory of the Nation.</p>
+            </div>
+            <div type="document">
+               <head>The Names of the <hi>LORDS Spiritual</hi> and <hi>Temporal,</hi> who Deserted, (not Protested) against the Vote in the <hi>House of PEERS,</hi> the sixth Instant against the <hi>Word Abdicated,</hi> and the Throne <hi>Vacant,</hi> in the same Method as they Entred their Names in the <hi>Journal-Book.</hi>
+               </head>
+               <list>
+                  <item>Somerset.</item>
+                  <item>Exeter.</item>
+                  <item>Clarendon.</item>
+                  <item>
+                     <hi>Bp. of</hi> Winchester.</item>
+                  <item>
+                     <hi>A. Bp. of</hi> York.</item>
+                  <item>
+                     <hi>Bp. of</hi> Lincoln.</item>
+                  <item>Aylsbury.</item>
+                  <item>
+                     <hi>Bp. of</hi> Norwich.</item>
+                  <item>
+                     <hi>Bp. of</hi> Chichester.</item>
+                  <item>
+                     <hi>Bp. of</hi> Bath <hi>and</hi> Wells.</item>
+                  <item>
+                     <hi>Bp. of St.</hi> Davids.</item>
+                  <item>
+                     <hi>Bp. of</hi> Peterborough.</item>
+                  <item>
+                     <hi>Bp. of Gloucester.</hi>
+                  </item>
+                  <item>Nottingham.</item>
+                  <item>Litchfield.</item>
+                  <item>Rochester.</item>
+                  <item>Feversham.</item>
+                  <item>Berckley.</item>
+                  <item>
+                     <hi>Bp. of</hi> Landaff.</item>
+                  <item>Dartmouth.</item>
+                  <item>Griffin.</item>
+                  <item>
+                     <hi>Bp. of</hi> Bristol.</item>
+                  <item>Pembrook.</item>
+                  <item>Ormond.</item>
+                  <pb n="10" facs="tcp:152916:7"/>
+                  <item>Beauford.</item>
+                  <item>Brook.</item>
+                  <item>Germayne.</item>
+                  <item>Scarsdale.</item>
+                  <item>Maynard.</item>
+                  <item>Northumberland,</item>
+                  <item>Arundel.</item>
+                  <item>Chandois.</item>
+                  <item>
+                     <hi>Leigh.</hi>
+                  </item>
+                  <item>
+                     <hi>Delaware.</hi>
+                  </item>
+                  <item>
+                     <hi>Grafton.</hi>
+                  </item>
+                  <item>
+                     <hi>Abingdon.</hi>
+                  </item>
+                  <item>
+                     <hi>Craven.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="account">
+               <head>An <hi>ACCOUNT</hi> of the Proclaiming the <hi>KING</hi> and <hi>QUEEN</hi>
+               </head>
+               <p>YEsterday Morning the House of Lords and Commons met, and went in a Body with their Speakers and Maces to the <hi>Banqueting-House,</hi> where the Yeomen of the Guard made a Lane on both sides, through which the Lords and Commons past towards the <hi>Throne;</hi> and the Prince and Princess met them some part of the way; where, after the Lords and Commons had paid their Respects, the Clerk of the House of Lords, read the Vote of both Houses. That King <hi>James</hi> the Second Abdicated the Go<g ref="char:EOLhyphen"/>vernment, by endeavouring to Subvert the Constitution of the Kingdom, and breaking the Original Contract between <hi>King</hi> and <hi>People,</hi> &amp;c. And by the Advice of <hi>Jesuits,</hi> and other Wicked persons, had Violated the <hi>Funda<g ref="char:EOLhyphen"/>mental Laws;</hi> And having withdrawn himself out of the Kingdom, had Forfeited the Government, and the <hi>Throne</hi> was thereby Vacant, <hi>&amp;c.</hi> They proceeded also to read the Preliminary Heads of those Grievances, with the Oaths (instead of those of Allegiance and Supremacy) which being ended, the Prince signified his Acceptance of the Crown, pursuant to those Grievances to be Redressed, and was pleased to add, That as he came hither to preserve them from the Violation of their Rights, and maintain<g ref="char:EOLhyphen"/>ing the <hi>Protestant Religion,</hi> so he would persevere in it as long as he Liv'd, and Redress all other Illegal practises as should come before him; and he would choose rather to take their Advice than his own, being resolved to consult with them frequently; upon which there was a great shout for Joy
+<pb n="11" facs="tcp:152916:7"/> in the <hi>Banqueting-House,</hi> which was followed by another in and about <hi>White Hall,</hi> and forthwith the Heralds proclaimed the Prince and Prin<g ref="char:EOLhyphen"/>cess KING and QUEEN of <hi>England, France,</hi> and <hi>Ireland,</hi> and Territories thereunto belonging before <hi>White Hall</hi> Gate, and then pro<g ref="char:EOLhyphen"/>ceeded to performe the same at <hi>Temple-Bar,</hi> the <hi>Royal-Exchange,</hi> &amp;c. Which was perform'd with a greater Assembly of Nobility, Gentry, and Citizens, than ever appear'd at the proclaiming of any <hi>King</hi> or <hi>Queen</hi> be<g ref="char:EOLhyphen"/>fore.</p>
+               <closer>And so God save King <hi>WILLIAM</hi> and Queen <hi>MARY,</hi> and Bless them with long Life and happy Raign.</closer>
+            </div>
+            <div type="form_of_oath">
+               <head>The Form of the Intended CORONATION OATH Agreed upon by the COMMITTEE.</head>
+               <sp>
+                  <speaker>A Bish</speaker>
+                  <p>WILL <hi>You solemnly promise and Swear to Govern the Peo<g ref="char:EOLhyphen"/>ple of this Kingdom of</hi> England, <hi>and the Dominions there<g ref="char:EOLhyphen"/>to belonging, according to the Statutes in Parliament agreed on, and the Laws and Customes of the same?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King</speaker>
+                  <p>I solemnly promise so to do.</p>
+               </sp>
+               <sp>
+                  <speaker>A. Bish.</speaker>
+                  <p>
+                     <hi>Will You to Your Power cause Law and Justice in Mercy to be Executed in all Your Judgements?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King</speaker>
+                  <p>I will.</p>
+               </sp>
+               <sp>
+                  <speaker>A. Bish.</speaker>
+                  <p>
+                     <hi>Will You to the utmost of Your Power Maintain the Laws of God, the true profession of the Gospel, and the Protestant Reformed Reli<g ref="char:EOLhyphen"/>gion
+<pb n="12" facs="tcp:152916:8"/> Established by Law? And will You preserve unto the Bishops and Clergy of this Realm, and to the Churches committed to their Charge, all such Rights and Priviledges as by Law do, or shall appertain unto them, or any of them?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>King</speaker>
+                  <p>All this I will promise to do.</p>
+               </sp>
+               <stage>After this the King laying His Hand upon the Holy-Gospel, shall say,</stage>
+               <sp>
+                  <speaker>King.</speaker>
+                  <p>All things which I have here before Promised, I will perform and keep.</p>
+                  <p>So help me God.</p>
+               </sp>
+               <stage>Then the King shall Kiss the Book.</stage>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="collection_of_papers">
+            <pb n="13" facs="tcp:152916:8"/>
+            <head>A COLLECTION OF THE PAPERS RELATING TO SCOTLAND.</head>
+            <div type="warrant">
+               <head>Warrand of Conveening the Nobility and Gentry of <hi>Scotland</hi> at <hi>London</hi> for the Time.</head>
+               <p>THese are to Require you <hi>William Spence,</hi> to Advertise the Lords and Gentlemen of the Kingdom of <hi>Scotland,</hi> whose Names are con<g ref="char:EOLhyphen"/>tain'd in a List given to you That We desire Them to meet Us at St. <hi>James</hi>'s, upon <hi>Monday</hi> the seventh Instant <hi>January</hi> by Three of the Clock in the Afternoon. Given at St. <hi>James</hi>'s the <hi>5th.</hi> day of <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> 1688 9.</p>
+               <closer>
+                  <signed>Sic Subscribitur<lb/> W. H. PRINCE of ORANGE.</signed>
+               </closer>
+            </div>
+            <div type="account">
+               <pb n="14" facs="tcp:152916:9"/>
+               <head>His Highness the Pince of ORANGE His SPEECH to the SCOTS Lords and Gentlemen: With their ADDRESS, and His Higness ANSWER.</head>
+               <head>With a true Account of what past at their Meeting in the Council Chamber, at <hi>Whitehall, Jan. 7th.</hi> 1688 9.</head>
+               <p>
+                  <hi>His Highness the</hi> PRINCE <hi>of</hi> Orange <hi>having caused Advertise such of the</hi> Scots <hi>Lords and Gentlemen, as were in Town, met them in a Room at</hi> St. James's <hi>upon</hi> Monday <hi>the</hi> Seventh <hi>of</hi> January <hi>at three of the Clock in the Afternoon, and bad this Speech to them.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>My Lords and Gentlemen,</salute>
+                           </opener>
+                           <p>
+                              <q>THE only Reason that induced me to undergo so great an Undertak<g ref="char:EOLhyphen"/>ing, was, That I saw the <hi>Laws</hi> and <hi>Liberties</hi> of these Kingdoms overturned, and the <hi>Protestant Religion</hi> in Eminent Danger; and seeing you are here so many Noblemen and Gentlemen, I have called you to<g ref="char:EOLhyphen"/>gether, that I may have your Advice, what is to be done for <hi>Securing</hi> the <hi>Protestant Religion,</hi> and <hi>Restoring</hi> your <hi>Laws</hi> and <hi>Liberties,</hi> according to my Declaration.</q>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>As soon as His Highness had retired, the Lords and Gentlemen went to the Council Chamber at <hi>Whitehall,</hi> and having chosen the Duke of <hi>Ha<g ref="char:EOLhyphen"/>milton</hi> their President, they fell a Consulting, what Advice was fit to be given to His Highness in this Conjuncture; and after some Hours reasoning, they agreed upon the Materials of it, and appointed the Clerks, with such as were to assist them, to draw up in Writing, what the Meeting thought expedient, to Advise His Highness, and to bring it in to the Meeting, the next day in the Afternoon.</p>
+               <p>
+                  <hi>Tuesday</hi> the Eighth Instant, the Writing was presented in the Meeting. and some time being spent in Reasoning about the fittest way of Conveening a General Meeting of the Estates of <hi>Scotland:</hi> At last the Meeting came to Agree in their Opinion, and appointed the Advice to be Writ clean over, according to the Amendments. But as they were about to part, for that Dyet the Earl of <hi>Arran</hi> Delivered himself as follows.</p>
+               <q>
+                  <pb n="15" facs="tcp:152916:9"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>My LORDS,</salute>
+                           </opener>
+                           <p>I Have all the Honnour and Deference for the <hi>Prince of Orange</hi> imagi<g ref="char:EOLhyphen"/>nable I think him a Brave Prince, and that we owe him great Obligati<g ref="char:EOLhyphen"/>ons, in Contributing so much for our Delivery from <hi>Popery.</hi> But while I pav those Praises, I cannot Violate my Duty to my Master. I must distin<g ref="char:EOLhyphen"/>guish between his <hi>Popery</hi> and his <hi>Person.</hi> I dislike the one, but have sworn and do owe Alledgeance to the other; which makes it impossible for me to sign away that which I cannot forbear believing is the KING my Master's Right. For his present absence from us, by being in <hi>France,</hi> can no more affect my Duty, than his longer absence from Us in <hi>SCOTLAND</hi> has done all this while.</p>
+                           <p>My Lords,</p>
+                           <p>The Prince in his Paper desires Our Advice, Mine is, That We should move his Majesty to Return and Call a free Parliament, for the securing our Religion and property, according to the known Laws of that Kingdom; Which in my humble Opinion, will at last be sound the best way to Heal all our Breaches,</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <hi>This Proposal seemed to dissatisfy the whole meeting, and the Duke of</hi> Hamilton <hi>their President, Father to the Earl, but they presently parted.</hi>
+               </p>
+               <p>
+                  <hi>Wednesday</hi> the ninth of <hi>January,</hi> They met at three of the Clock in the same Room, and Sir <hi>Patrick Hume</hi> took notice of the Proposal made by the Earl of <hi>Arran,</hi> and desired to know if there was any there that would second it: But none appearing to doe it he said, That what the Earl had proposed, was evidently opposit and inimicous to His <hi>Highness</hi> the Prince of <hi>Orange's</hi> Undertaking, his Declaration, and the Good Intentions of Preserving the <hi>Protestant</hi> Religion, and of Restoring their Laws and Liberties exprest in it. And further, desired that the Meeting should declare this to be their Opinion of it. The Lord <hi>Cardross</hi> seconded Sir <hi>Patricks</hi> Motion; It was answered by the Duke of <hi>Hamilton</hi> President of the Meeting, That their business was to prepare an advice to be offered to the Prince; and the advice being now ready to go to the Vote, there was no need that the Meeting should give their Sense of the Earls Proposal, which neither before nor after Sir <hi>Patricks</hi>
+                  <pb n="16" facs="tcp:152916:10"/> Motion, any had pretended to own or second; so that it was fallen, and out of doors; and that the Vote of the Meeting, upon the Advice brought in by their Order, would sufficiently declare their Opinion: Thus being seconded by the Earl of <hi>Sutherland</hi> and the Lord <hi>Cardross,</hi> Sir <hi>Patrick</hi> did acquiesce and the Meeting Voted unanimously the Address following.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="address">
+                           <opener>
+                              <salute>To His Highness the PRINCE of ORANGE.</salute>
+                           </opener>
+                           <p>WE the Lords and Gentlemen of the Kingdom of Scotland Assembled at your Highness's desire in this Extraordinary Conjunction, do give your Highness our humble and hearty thanks for your Pious and Gene<g ref="char:EOLhyphen"/>rous undertaking, for preserving of the Protestant Religion, and Restoring the Laws and Liberties of these Kingdoms.</p>
+                           <p>In Order to the Attaining of these Ends, our humble advice and desire is, That your Highness take upon you the Administration of all Affairs, both Civil and Military; the Disposal of the publick Revenues and Fortres<g ref="char:EOLhyphen"/>ses of the Kingdom of Scotland, and the doeing every thing that is necessary for the Presevation of the Peace of the Kingdom, until a General meeting of the States of the Nation, which we humbly desire your Highness to call, to be holden at <hi>Edinburgh</hi> the fourteenth day of <hi>March</hi> next. by your Letters or Proclamation to be published at the Market Cross of <hi>Edinburgh,</hi> and other Head-Buroughs of the several shires and Stewartries as sufficient intimation to all concerned, according to the Custom of the Kingdom: And that the publi<g ref="char:EOLhyphen"/>cation of these your Letters or Proclamation, be by the Sheriff or Stewart Clerks, for the Free-holders, who have the value of Lands, holden accor<g ref="char:EOLhyphen"/>ding to Law, for making Elections; And by the Town-Clerks of the several Buroughs, for the Meeting of the whole Burgesses of the respective Royal-Buroughs, to make their Elections, at least Fifteen Days before the Meet<g ref="char:EOLhyphen"/>ing of the Estates at <hi>Edinburgh,</hi> and the respective Clerks to make Intima<g ref="char:EOLhyphen"/>tion thereof, at least Ten Dayes before the Meetings for Elections: and that the whole Electors and Members of the said Meeting at <hi>Edinburgh,</hi> qua<g ref="char:EOLhyphen"/>lified as above exprest, be <hi>Protestants,</hi> without any other Exception, or Limitation whatsoever; to Deliberate and Resolve what is to be done for Securing the <hi>Protestant Religion,</hi> and Restoring the Laws and Liberties
+<pb n="17" facs="tcp:152916:10"/> of the Kingdom, according to Your Highness's Declaration. Dated at the Council-Chamber in <hi>Whitehall</hi> the tenth day of <hi>Jan.</hi> 1689.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>This Address being Subscribed by Thirty Lords, and about Fourscore Gentlemen, was presented in their presence at St. <hi>James</hi> by the Duke of <hi>Hamilton</hi> their President, to His Highness the Prince of <hi>Orange,</hi> who Thanked them for the Trust they reposed in him, and desired a Time to consider upon so weighty an Affair.</p>
+               <p>Upon the Fourteenth of <hi>January,</hi> His Highness the Prince of <hi>Orange</hi> met again with the <hi>Scots</hi> Lords and Gentlemen, at St. <hi>James</hi>'s; and spake to them as follows.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <opener>
+                              <salute>My Lords and Gentlemen.</salute>
+                           </opener>
+                           <p>IN pursuance of Your Advice. I will, until the Meeting of the Estates in <hi>March</hi> next, give such Orders concerning the Affairs of <hi>Scotland</hi> as are necessary for the calling the said Meeting, for the preserving of the Peace; the Applying the publick Revenue to the most pressing Uses, and and putting the Fortresses in the Hands of Persons, in whom the Nation can have a Just Confidence: And I do farther assure you, That you will always find Me ready to concur with You in every Thing that may be found necessary for Securing the <hi>Protestant Religion,</hi> and Restoring the <hi>Laws</hi> and <hi>Liberties</hi> of the <hi>Nation.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>The Earl of <hi>Crawford</hi> desired of His Highness, That himself, the Earl of <hi>Louthian,</hi> and others, come to Town since the Address was presented, might have an opportunity to Subscribe it; which was accordingly done: His Highness retired, and all shewed great Satisfaction with His Answer.</p>
+            </div>
+            <div type="declaration">
+               <pb n="18" facs="tcp:152916:11"/>
+               <head>A DECLARATION By His Highness the Prince of <hi>Orange;</hi> for the keeping of the Peace, <hi>&amp;c,</hi> in the Kingdom of SCOTLAND.</head>
+               <opener>
+                  <signed>WILLIAM HENRY, By <hi>the Grace of</hi> GOD, <hi>Prince of</hi> Orange. <hi>&amp;c.</hi>
+                  </signed>
+               </opener>
+               <p>WHEREAS the Lords and Gentlemen of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> met at <hi>Whitehall</hi> at Our Desire, to advise Us what was to be done for Securing the <hi>Protestant Religion,</hi> and Restoring the Laws and Liberties of that Kingdom, Have desired us to call a Meeting of the Estates in <hi>March</hi> next, and in the mean while to take upon us the Administration of publick Affairs, both Civil and Military, the disposal of the publick Revenue and Fortresses, and the doing every thing that is necessary for the preserv<g ref="char:EOLhyphen"/>ing of the Peace.</p>
+               <p>We being desirous to Omit nothing that may tend to the publick Good and Happiness of that Kingdome, Have (in pursuance of the said Advice) Issued forth Our Orders for the Calling of the said Meeting of the Estates; And to the end that in the mean time the publick peace, and the Fortresses may be Secured, and the Revenue Collected, we do hereby will and Require all Persons being Protestants that are at present in the Pos<g ref="char:EOLhyphen"/>session of the Offices of Sheriffs, Justices of the Peace, Magistrats of Burghs, Baillies of Regalities, Stewards of Sewartries, Governours or Lieu<g ref="char:EOLhyphen"/>tenants of Fortresses, keepers of Prisons or Prisoners, or in the Possession of any inferior Offices and Places of the like nature; and likewayes all Per<g ref="char:EOLhyphen"/>sons being Protestants that are in the possession of any office or Imployment, in Collecting, Receiving, Managing or ordering of the publick revenue, to take upon them, and to continue in the Exercise of the saids Offices and plac<g ref="char:EOLhyphen"/>es Respectively, Doing and Ordering every thing, which the Trust reposed
+<pb n="19" facs="tcp:152916:11"/> in them, according to the Nature of the saids Offices, requires to be done, and ordered in the usual Manner, Form and Method; and we do in a parti<g ref="char:EOLhyphen"/>cular manner Authorize, Impower and Require, such of them to whom the Care of preserving the Peace and Quiet of the Nation belongs; To use all dili<g ref="char:EOLhyphen"/>gence for Supressing all Routs, Tumults, Disorders, Violences, and such other Unwarrantable Practices as are contrary to it: And we do hereby expresly prohibit and discharge all Disturbance and Violence upon the account of Religion, or the Exercise thereof, or any such like pretence, and that no Inter<g ref="char:EOLhyphen"/>ruption be made, or if any hath been made, that it Cease, in the Free and peaceable Exercise of Religion, whether it be in the Churches, or in the pub<g ref="char:EOLhyphen"/>lick and private meetings, of those of a different Perswasion. Requiring, Likeas we do hereby Require all Protestants, as they love the Good of their Countrey, and Religion, and are willing in their several Stations, and Ca<g ref="char:EOLhyphen"/>pacities to concurre with Us, in our Endeavours to bring Matters to a Hap<g ref="char:EOLhyphen"/>py and Desireable Settlement, that they will live peaceably together, and without Disquieting or Molesting one another; Enjoy their several Opinions and Forms of Worship, whether according to Law or otherwayes, with the same Freedom, and in the same manner, in which they did Enjoy them in the Month of <hi>October</hi> last, till such time, as by Regular and Legal Methods a due Temper may be fallen on, for Composing and Settling those Differen<g ref="char:EOLhyphen"/>ces: And to the End; that the Peace may be the more effectually Secured; We Require all Men, or Numbers of Men in Arms, by vertue of any order or Authority, and under any Title and Designation whatsoever, whether they be standing Forces, or Militia Forces, Modelled into Regular Troups, and kept on Foot, as standing Forces, to Separat, Dismiss, and Disband themselves; Likeas we do hereby Disband them, and appoint them to Retire to their respective Dwellings, with full assurance to them, that care shall be taken in due time for their having their Pay, if any shall be found due to them. And we do farther prohibite and Discharge, all persons in time com<g ref="char:EOLhyphen"/>ing to take Arms, or to continue in Arms upon any pretence whatsoever, without a commission, or an Express order from Us. Excepting from what is above Written, Likeas, We do hereby Except the Garisons of the For<g ref="char:EOLhyphen"/>tresses, and the Company of Foot entertained by the Town of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> for the Guard of the said Town, whom we do appoint to con<g ref="char:EOLhyphen"/>tinue in the Exercise of their duty (they being Protestants) in the saids Garisons and Town. And whereas, several <hi>Roman Catholicks</hi> have been, and are still in the possenssion of the Places and Offices above<g ref="char:EOLhyphen"/>mentioned:
+<pb n="20" facs="tcp:152916:12"/> We do hereby Require them to leave the said Offices and Places; and to retire to their several Dwelling-houses, where we forbid and Discharge all Persons to Disquiet, Disturb, or Molest them any manner of way: And We appoint the next immediat Protestant Officers in the Fortresses, where Governours, Deputy-Governours, or other Officers are <hi>Roman Catholicks,</hi> to take upon them the Custody of the saids Fortresses, and in the same manner that the Protestants concerned in the Collecting and Managing of the Reve<g ref="char:EOLhyphen"/>nue, and the Keeping of the Peace, do Supply by their Diligence, the Va<g ref="char:EOLhyphen"/>cancies that are, or may happen to be in places of the like nature; This Our Declaration to be of force, and to take effect till the said Meeting of the Estates in <hi>March</hi> next; and to be without prejudice to any other Orders we may think fit to give to any Person, or Persons, for the ends above-mention<g ref="char:EOLhyphen"/>ed, And we do farther order this our Declaration to be Printed and Pub<g ref="char:EOLhyphen"/>lished at <hi>Edinburgh,</hi> and Printed Copies of the same to be given, or sent to the Shirreffs, and Stewart-Clerks of the several Shires and Stewartries, whom we do hereby Require to publish the same upon the first Mercat-day after the receipt thereof, at the Crosses of the Head Burghs of their respective Shires and Sewartries, in the due and usual manner.</p>
+               <closer>
+                  <dateline>
+                     <hi>Given at St.</hi> Jame'<hi>s</hi>
+                     <date>
+                        <hi>the Sixth day of</hi> February, <hi>in the Year of our Lord, One thousand six hundred eighty eight and nine.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>W. H.</hi> Prince of <hi>Orange.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letters">
+               <head>COPY of the LETTERS by the Prince of ORANGE to the three Estates of <hi>Scotland,</hi> for Sitting in the Meeting of Estates at <hi>Edinburgh 14 March</hi> 1689.</head>
+               <div type="letter">
+                  <head>LETTER <hi>to the</hi> BISHOPS <hi>and</hi> LORDS.<note place="margin">Locus Sigilli</note>
+                  </head>
+                  <opener>
+                     <salute>MY LORD,</salute>
+                  </opener>
+                  <p>WHEREAS the Lords and Gentlemen of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> met at <hi>Whitehall</hi> at Our Desire, to Advise what is to be done for Securing the <hi>Protestant Religion,</hi> and Restoring the Laws and Li<g ref="char:EOLhyphen"/>berties
+<pb n="21" facs="tcp:152916:12"/> of that Kingdom according to Our Declarations, have for the attain<g ref="char:EOLhyphen"/>ing of these Ends Desired Us to call a Meeting of the Estates to be holden at <hi>Edinburg</hi> in <hi>March</hi> next. and to make sufficient Intimation of the same by Our Letters to all Persons who of Right ought to be at the said Meeting, We being Desirous to do every Thing that may Tend to the Publick Good and Happiness of that Kingdom; In pursuance of the said Advice, Do by this Our Letter, Desire your Lordship to Meet and Sit in the said Meeting of the Estates at <hi>Edinburgh</hi> the <hi>14th</hi> Day of <hi>March</hi> next.</p>
+                  <closer>
+                     <dateline>Given at St. <hi>James'</hi> s <date>the Fifth of February in the Year of Our Lord 1689.</date>
+                     </dateline>
+                  </closer>
+                  <trailer>To the Lord <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </trailer>
+                  <closer>
+                     <signed>Sic Subscribitur W. H. PRINCE of ORANGE.</signed>
+                  </closer>
+               </div>
+            </div>
+            <div type="letter">
+               <head>LETTER <hi>to the</hi> SHIRES.<note place="margin">Locus Sigilli</note>
+               </head>
+               <p>WHEREAS the Lords and Gentlemen of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> met at <hi>White-Hall,</hi> at Our Desire, to Advise Us what is to be done, for Securing the Protestant Religion, and Restoring the Laws and Liberties of that Kingdom, according to Our Declarations, have de<g ref="char:EOLhyphen"/>sired Us, for the attaining of these Ends, to call a Meeting of the Estates, to be holden at <hi>Edinburgh,</hi> in <hi>March</hi> next.</p>
+               <p>We being desirous to do every thing that may tend to the Publick Good and Happiness of that Kingdom, have resolved to call the said Meeting a<g ref="char:EOLhyphen"/>gainst the fourteenth day of the said Month of <hi>March:</hi> And do therefore, in Pursuance, and according to the Tenor of the said Advice, require you, upon the receipt of this Our Letter, to give publick Intimation of the same, upon the first Mercat Day, at the Cross of the Head Burrough, of the Shire of in the due and usual manner; and to appoint a day to be at least eight Days after the said Intimation, for the Meeting of the Freeholders, at the Head Burrough of the said Shire, to choose their Com<g ref="char:EOLhyphen"/>missioners for the Meeting of the Estates at <hi>Edinburgh</hi> the said fourteenth day of <hi>March,</hi> and to leave a Copy hereof; and of your Intimation, con<g ref="char:EOLhyphen"/>taining
+<pb n="22" facs="tcp:152916:13"/> the said day for Elections, affixed on the said Cross: The Free<g ref="char:EOLhyphen"/>holders being Protestants, and having the value of Lands, required by the Law, for making Elections; And the Commissioners being Prote<g ref="char:EOLhyphen"/>testants, without any other Exception or Limitation And We do far<g ref="char:EOLhyphen"/>ther Require you to take care, I hat the Letters herewith sent to you, be delivered to the Bishops and Lords, to whom they are directed within the said Shire: Or, in their Absence, to be left at their Dwelling Houses, be<g ref="char:EOLhyphen"/>fore Witnesses, and an Attest to be returned thereupon to the Convention:</p>
+               <closer>
+                  <dateline>Given at St. <hi>James's</hi>
+                     <date>the fifth day of Feb in the year of our Lord, 1689.</date>
+                  </dateline>
+                  <signed>Sic Subscribitur W. H. PRINCE of ORANGE.</signed>
+               </closer>
+               <trailer>To the Sheriff-Clerk of the Shire of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </trailer>
+            </div>
+            <div type="letter">
+               <head>LETTER <hi>to the</hi> BURROUGHS.</head>
+               <note place="margin">Locus Sigilli</note>
+               <p>WHEREAS the Lords and Gentlemen of the Kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> me at <hi>Whitehall,</hi> at Our desire, to Advise Us what is to be done, for Securing the Protestant Religion, and Restoring the Laws and Liberties of that Kingdom, according to Our Declarations, have desired Us, for the attaining these Ends, to call a Meeting of the Estates, to be holden at <hi>Edinburgh,</hi> in <hi>March</hi> next.</p>
+               <p>WEE being Desirous to do every Thing that may Tend to the publick Good and Happiness of that Kingdom, have Resolved to call the said Meet<g ref="char:EOLhyphen"/>ing against the Fourteenth Day of the said Month of <hi>March</hi> next; and do therefore in pursuance, and according to the Tenor of the said Advice, Re<g ref="char:EOLhyphen"/>quire you upon the Receipt of this Our Letter, to make publick Intimation of the some on the first Mercat Day at the Cross of the Royal Burrough of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the usual manner, and to appoint a Day, to be at least Five Days after the said Intimation for the whole Burgesses to meet and chuse their Commissioners for the said Meeting of the Estates at <hi>Edinburgh</hi> the said Fourteenth Day of <hi>March,</hi> a Copy of this Our Letter and of your Intimation, containing the Day of Election to be left affixt on the said Cross. The Burgesles and Commissioners being Protestants, without any
+<pb n="23" facs="tcp:152916:13"/> other Exception or Limitation. And that you Report your Diligence here<g ref="char:EOLhyphen"/>in to the Convention.</p>
+               <closer>
+                  <dateline>Given at St. <hi>James'</hi>s <date>the fifth day of <hi>Feb.</hi> in the Year of Our Lord 1689.</date>
+                  </dateline>
+                  <signed>Sic Subscribitur W. H. PRINCE of ORANGE.</signed>
+               </closer>
+               <trailer>To the Town Clerk of the Town of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>
+               </trailer>
+            </div>
+            <div type="proclamation">
+               <head>
+                  <hi>A</hi> PROCLAMATION, <hi>Declaring</hi> WILLIAM <hi>and</hi> MARY KING <hi>and</hi> QUEEN <hi>of</hi> England, <hi>to be</hi> KING <hi>and</hi> QUEEN <hi>of</hi> Scotland Edinburgh, April <hi>11th.</hi> 1689.</head>
+               <p>WHereas the Estates of the Kingdom of <hi>Scotland,</hi> by their Act of the date of these Presents, have Resolved, that <hi>William</hi> and <hi>Mary,</hi> King and Queen of <hi>England, France</hi> and <hi>Ireland,</hi> Be, and be Declared King and Queen of <hi>Scotland.</hi> to hold the Crown and Royal Dignity of the said Kingdom of <hi>Scotland,</hi> to them the said King and Queen during their Lives, and the longest Liver of them, and that the Sole and Full Exercise of the Regal Power, be only in, and Exercised by, the said King, in the Names of the said King and Queen, during their joint Lives. As also, the Estates having resolved, and enacted an Instrument of Government, or claim of Right, to be presented with the offer of the Crown, to the said King and Queen. They do Statute and Ordain, That <hi>William</hi> and <hi>Mary</hi> King and Queen of <hi>England, France</hi> and <hi>Ireland;</hi> be accordingly forthwith proclaim<g ref="char:EOLhyphen"/>ed King and Queen of <hi>Scotland,</hi> at the Mercat-Cross of <hi>Edinburgh,</hi> by the Lyon King at Arms, or his Deputs, his Brethren Heraulds, Macers and Pursevants, and at the Head-Burghs of all the Shires, Stewartries, Baillia<g ref="char:EOLhyphen"/>ries, and Regalities within the Kingdom, by Messengers at Arms.</p>
+               <closer>Extract<g ref="char:EOLhyphen"/>ed forth of the Records of the Meeting of the Estates, by me
+<signed>JA. DALRYMPLE, <hi>Cls.</hi>
+                  </signed>
+                  <lb/> GOD Save KING WILLIAM and QUEEN MARY.</closer>
+            </div>
+            <div type="declaration">
+               <pb n="24" facs="tcp:152916:14"/>
+               <head>The <hi>DECLARATION</hi> of the <hi>Estates</hi> of the Kingdom of <hi>Scotland,</hi> Containing the Claim of Right, and the Offer of the <hi>CROWN</hi> to their <hi>Majesties</hi> King <hi>WILLIAM</hi> and Queen <hi>MARY.</hi> Together with the <hi>Grievances</hi> Represented by the <hi>Estates,</hi> and Their <hi>MAJESTIES</hi> Oath at Their Acceptance of the <hi>CROWN.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Edinburgh,</hi>
+                     <date>the Eleventh day of <hi>April.</hi> 1689.</date>
+                  </dateline>
+               </opener>
+               <p>WHereas King <hi>James</hi> the Seventh, being a profest <hi>Papist,</hi> did As<g ref="char:EOLhyphen"/>sume the Regal Power, and Acted as King, without ever taking the Oath Required by Law, whereby the King, at His Access to the Govern<g ref="char:EOLhyphen"/>ment, is oblidged to Swear, to maintain the Protestant Religion, and to Rule the People According to the Laudable Laws; and did by the Advice of Wicked and Evil Counsellers, Invade the Foundamental Constitution of this Kingdom, and Altered it from a Legal Limited Monarchy, to an Arbitrary Despotick Power; And in a Publick Proclamation, asserted an Absolute Power, to cass, annul and dissable all the Laws, Particularly Arrainging the Laws, establishing the <hi>Protestant Religion,</hi> and did Exerce that Power, to the Subversion of the <hi>Protestant Religion,</hi> and to the Violation of the Laws and Liberties of the Kingdom.</p>
+               <p>By Erecting Publick Schools, and Societies of the <hi>Jesuits;</hi> and not only allowing <hi>Mass</hi> to be publickly said, but also inverting <hi>Protestant</hi> Chap<g ref="char:EOLhyphen"/>pels and Churches to publick <hi>Mass-Houses,</hi> contrary to the Express Laws against Saying and hearing of <hi>Mass.</hi>
+               </p>
+               <p>By allowing <hi>Popish-Books</hi> to be Printed, and dispersed by a Gift to a <hi>Popish</hi> Printer; Designing him Printer to his Majesties Houshold, Colledge and Chappel, contrary to the Laws.</p>
+               <p>By taking the Children of Noblemen and Gentlemen, sending and keep<g ref="char:EOLhyphen"/>ing them abroad, to be bred <hi>Papists,</hi> making great Fonds and Dotations to <hi>Popish</hi> Schools and Colledges abroad; bestowing Pensions upon <hi>Priests,</hi> and Perverting <hi>Protestants</hi> from their Religion, by offers of Places, Preferments and Pensions.</p>
+               <p>By dis-arming <hi>Protestants,</hi> while at the same time he Imployed <hi>Papists</hi> in the Places of greatest Trust, Civil and Military; Such as Chancellor, Se<g ref="char:EOLhyphen"/>cretaries, Privy Counsellers, and Lords of Session, Thrusting out Protestants,
+<pb n="25" facs="tcp:152916:14"/> to make Room for <hi>Papists,</hi> and entrusted the Forts and Magazins of the Kingdom in their Hands.</p>
+               <p>By Imposing Oaths contrary to Law.</p>
+               <p>By giving Gifts and Grants for Exacting Money, without Consent of <hi>Parliament,</hi> or Convention of <hi>Estates.</hi>
+               </p>
+               <p>By Levying or keeping on Foot a standing Army in time of Peace with<g ref="char:EOLhyphen"/>out Consent of Parliament, which Army did exact Locality, free and dry Quarters.</p>
+               <p>By Imploying the Officers of the Army, as Judges through the Kingdom, and Imposing them where there were Heretable Offices and Jurisdictions, by whom many of the Leidges were put to Death summarly, without Legal Tryal, Jury or Record.</p>
+               <p>By Imposing Exorbitant Fines, to the Value of the Parties Estates, Ex<g ref="char:EOLhyphen"/>acting Extravagant Baile; and disposing Fines and Forefeitures before any Process or Conviction.</p>
+               <p>By Imprisoning persons without expressing the Reason, and delaying to put them to Tryal.</p>
+               <p>By causing Pursue and Forefeit several Persons upon stretches of old and obsolete Laws, upon frivolous and weake Pretences, upon Lame and De<g ref="char:EOLhyphen"/>fective Probations; as particularly the late Earle of <hi>Argyl,</hi> to the Scandal and Reproach of the Justice of the Nation.</p>
+               <p>By Subverting the Right of the Royal Burghs, the third Estate of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> Imposing upon them not only Magistrats, but also the whole Town-Council, and Clerks, contrary to their Liberties, and Express Charters without the Pretence either of Sentence, Surrender, or Consent; So that the Commissioners to <hi>Parliaments</hi> being chosen by the Magistrats and Council, the King might in effect as well nominat that intire Estate of <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> and many of the saids Magistrats put in by him, were avowed <hi>Pa<g ref="char:EOLhyphen"/>pists,</hi> and the burghs were forced to pay Mony for the Letters, Imposing these Illegal Magistrats and Councils upon them.</p>
+               <p>By sending Letters to the Chief Court of Justice, not only ordaining the Judges to stop and desist <hi>sine die</hi> to determine Causes; but also ordaining and Commanding them how to proceed, in Cases depending before them, con<g ref="char:EOLhyphen"/>trary to the Express Laws; and by changing the Nature of the Judges Gifts <hi>advitam aut culpam,</hi> and giving them Commissions <hi>ad beneplacitum,</hi> to dispose them to compliance with Arbitrary Courses, and turning them out of their Officis when they did not Comply.</p>
+               <pb n="26" facs="tcp:152916:15"/>
+               <p>By granting Personal Protections for Civil Debts, contrary to Law.</p>
+               <p>All which are utterly and directly contrary to the known Laws, Statutes and Freedoms of this Realm.</p>
+               <p>Therefore the Estates of the Kingdom of <hi>Scotland,</hi> Find and Declare, that King <hi>James</hi> the Seventh being a Profest <hi>Papist,</hi> did assume the Regal Power, and Acted as King, without ever taking the Oath required by Law, and hath by the Advice of Evil and Wicked Counsellers, Invaded the Fun<g ref="char:EOLhyphen"/>damental Constitution of the Kingdom, and altered it from a Legal Limi<g ref="char:EOLhyphen"/>ted Monarchy, to an Arbitrary Despotick Power, and hath Exercised the same, to the Subversion of the <hi>Protestant Religion,</hi> and the Violation of the Laws and Liberties of the Kingdom, Inverting all the ends of Govern<g ref="char:EOLhyphen"/>ment, whereby he hath Forefeited the Right to the Crown, and the Throne is become Vacant.</p>
+               <p>And whereas His Royal Highness, <hi>William</hi> then Prince of <hi>Orange,</hi> now King of <hi>England;</hi> whom it hath pleased Almighty GOD to make the Glorious Instrument of delivering these Kingdoms from <hi>Popery,</hi> and Arbi<g ref="char:EOLhyphen"/>trary Power, Did, by the Advice of Several Lords and Gentlemen of this Nation, at <hi>London</hi> for the time, call the Estates of this Kingdom to meet the Fourteenth of <hi>March</hi> last, In Order to such an Establishment, as that their Religion, Laws and Liberties might not be again in Danger of being Subverted; And the saids Estates being now Assembled, in a Full and Free Representative of this Nation, Taking to their most serious Consideration, the best Means for attaining the Ends aforesaid, Do, in the first place, as their Ancestors in the like Cases have usually done, for the Vindicating and Asserting their Antient Rights, and Liberties, Declare.</p>
+               <p>That by the Law of this Kingdom, no <hi>Papist</hi> can be King or Queen of this Realm, nor bear any Office whatsoever therein; nor can any <hi>Prote<g ref="char:EOLhyphen"/>stant Successor</hi> exercise the Regal Power, until He or She Swear the Coro<g ref="char:EOLhyphen"/>nation Oath.</p>
+               <p>That all Proclamations aslerting an Absolute Power, to Cass, Annull, and Disable Laws, the Erecting Schools and Colledges for <hi>Jesuits,</hi> the In<g ref="char:EOLhyphen"/>verting <hi>Protestant</hi> Chappels and Churches to publick <hi>Mass-Houses,</hi> and the allowing <hi>Mass</hi> to be said, are contrary to Law.</p>
+               <p>That the Allowing Popish Books to be Printed and Dispersed, is con<g ref="char:EOLhyphen"/>trary to Law.</p>
+               <pb n="27" facs="tcp:152916:15"/>
+               <p>That the taking the Children of Noblemen, Gentlemen, and others, sending and keeping them abroad to be bred Papists, the making Fonds and Dotations ro Popish Schools and Colledges, the bestowing Pensions on Priests, and the perverting Protestants from their Religion, by offers of Places, Preferments, and Pensions, are contrary to Law.</p>
+               <p>That the Disarming of <hi>Protestants,</hi> and Imploying of <hi>Papists</hi> in the places of greatest Trust, both Civil and Military, the thrusting out of <hi>Pro<g ref="char:EOLhyphen"/>testants,</hi> to make room for <hi>Papists,</hi> and the intrusting <hi>Papists</hi> with the Forts and Magazines of the Kingdom, are contrary to Law.</p>
+               <p>That the Imposing Oaths without Authority of Parliament, is contrary to Law.</p>
+               <p>That the giving Gifts or Grants for raising of Money, without the con<g ref="char:EOLhyphen"/>sent of Parliament, or Convention of Estates is contrary to Law</p>
+               <p>That the Imploying the Officers of the Army as Judges through the Kingdom, or Imposing them where there were Heretable Offices and Ju<g ref="char:EOLhyphen"/>risdictions, and the putting the Leidges to death summarly, and without Legal Tryal, Jury, or Record, are contrary to Law.</p>
+               <p>That the Imposing of extraordinary Fines, the exacting of exorbitant Baile, and the disposing of Fines, and Forfeitures before Sentence, are contrary to Law.</p>
+               <p>That the Imprisoning persons, without expressing the Reason thereof, and delaying to put them to Tryal, is contrary to Law.</p>
+               <p>That the causing Pursue and Forfeit persons, upon stretches of old and obsolete Laws, upon frivolous and weak pretences, upon lame and defective Probation, as particularly the late Earl of <hi>Argile,</hi> are contrary to Law.</p>
+               <p>That the Nominating and Imposing the Magistrates, Councils, and Clerks, upon Burghs, contrary to their Liberties, and express Charters, is contrary to Law</p>
+               <p>That the sending Letters to the Courts of Justice, Ordaining the Judges to stop or desist from Determining Causes, or Ordaining them how to pro<g ref="char:EOLhyphen"/>ceed in Causes depending before them, and the changing the nature of the Judges Gifts <hi>ad vitam aut culpam,</hi> into Commissions <hi>dur ante beneplacito,</hi> are contrary to Law.</p>
+               <p>That the granting Personal Protections for Civil Debts, is contrary to Law.</p>
+               <pb n="28" facs="tcp:152916:16"/>
+               <p>That the forcing the Leidges to Depone against themselves in Capital Crimes, however the punishment be restricted, is contrary to Law</p>
+               <p>That the using Torture without Evidence, or in ordinary Crimes, is con<g ref="char:EOLhyphen"/>trary to Law.</p>
+               <p>That the sending of an Army in an Hostile manner, upon any part of the Kingdom, in a peaceable time, and exacting of Locality, and any man<g ref="char:EOLhyphen"/>ner of free Quarters, is contrary to Law.</p>
+               <p>That the Charging of the Leidges with Law-borrows at the King's in<g ref="char:EOLhyphen"/>stance, and the Imposing of Bonds without the Authority of Parliament, and the Suspending Advocats from their Imployment for not Compearing when such Bonds were offered, were contrary to Law.</p>
+               <p>That the putting of Garisons in private Mens Houses in time of eace, without their consent, or the Authority of Parliament, is contrary to Law.</p>
+               <p>That the Opinions of the Lords of Session in the two Cases following, were contrary to Law, <hi>viz. 1st.</hi> That the concealing the demand of a Supply for a Forefeited Person although not given, is Treason. <hi>2d.</hi> That Persons refusing to discover what are their private Thoughts and Judg<g ref="char:EOLhyphen"/>ments, in relation to points of Treason, or other mens Actions, are guilty of Treason.</p>
+               <p>That the Fining Husbands for their Wives withdrawing from the Church, was contrary to Law.</p>
+               <p>That Prelacy and the Superiority of any Office in the Church, above Presbyters, is and hath been a great and insupportable Grievance and Trouble to this Nation, and contrary to the Inclinations of the Generality of the People, ever since the Reformation (they having Reformed from Popery by Presbyters) and therefore ought to be Abolished.</p>
+               <p>That it is the Right and Priviledge of the Subjects, to protest for Remeed of Law to the King and Parliament, against Sentences pronounced by the Lords of Session, providing the same do not stop Execution of these Sentences.</p>
+               <p>That it is the Right of the Subjects to Petition the King, and that all Im<g ref="char:EOLhyphen"/>prisonments and Prosecutions for such Petitioning, are contrary to Law.</p>
+               <p>That for Redress of all Grievances, and for the Amending, Strengthning, and Preserving of the Laws, Parliaments ought to be frequently called, and allowed to sit, and the freedom of Speech and Debate secured to the Members.</p>
+               <pb n="29" facs="tcp:152916:16"/>
+               <p>And they do Claim, Demand, and Insist upon all and sundry the Pre<g ref="char:EOLhyphen"/>misses, as their undoubted Rights and Liberties, and that no Declarations Doings, or Proceedings, to the prejudice of the people, in any of the saids Premisses, ought in any wise to be drawn hereafter, in Consequence or Example, but that all Foreseiturs, Fines, loss of Offices, Imprisonments, Banishments, Pursuits, Persecutions, Tortures, and rigorous Executions be considered, and the Parties Lesed be Redressed,</p>
+               <p>To which Demand of their Rights, and Redressing of their Grievances, they are particularly encouraged by his Majesty, the King of <hi>England</hi> His Declaration for the Kingdom of <hi>Scotland,</hi> of the day of <hi>October</hi> last, as being the only means for obtaining a full Redress and Remedy therein.</p>
+               <p>Having therefore an entire Confidence, that His said Majesty, the King of <hi>England,</hi> will perfect the Deliverance so far advanced by Him, and will still preserve them from the Violation of their Rights, which they have here Asserted, and from all other Attempts upon their Religion, Laws and Li<g ref="char:EOLhyphen"/>berties.</p>
+               <p>The said Estates of the Kingdom of <hi>Scotland,</hi> Do Resolve <hi>WILLIAM</hi> and <hi>MARY,</hi> King and Queen of <hi>England, France</hi> and <hi>Ireland,</hi> Be, and be Declared King and Queen of <hi>Scotland,</hi> to hold the Crown and Royal Dignity of the said Kingdom of <hi>Scotland,</hi> to Them the said King and Queen, during their Lives, and the longest Liver of them, and that the Sole and Full Exercise of the Regal Power, be only in, and Exercised by Him the said King, in the Names of the said King and Qeen, during their Joynt Lives, and after their Decease, the said Crown and Royal Dignity of the said Kingdom, to be to the Heirs of the Body of the said Queen, which failing, to the Princess <hi>Ann</hi> of <hi>Denmark,</hi> and the Heirs of her Body, which also failing to the Heirs of the Body of the said <hi>WILLIAM</hi> King of <hi>England.</hi>
+               </p>
+               <p>And they do Pray the said King and Queen of <hi>England</hi> to accept the same accordingly.</p>
+               <p>And that the Oath hereafter mentioned, be Taken by all Protestants of whom the Oath of Allegiance, and any other Oaths and Declarations might be required by Law, in slead of them, and that the said Oath of Allegiance, and other Oaths and Declarations may be Abrogated.</p>
+               <q>
+                  <pb n="30" facs="tcp:152916:17"/>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="oath">
+                           <head>The OATH.</head>
+                           <p>I. A. B. <hi>Do sincerely Promise and Swear, That I will be Faithful, and bear True Allegiance to Their Majesties, King</hi> WILLIAM <hi>and Queen</hi> MARY.</p>
+                           <closer>So help me God.</closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>And the Estates do Ordain, That this Declaration be Ingrossed in Parch<g ref="char:EOLhyphen"/>ment, and Recorded in the Register Books of Parliament.</p>
+            </div>
+            <div type="document">
+               <head>Follows the Grievances Represented by the Estates of the Kingdom of <hi>SGOTLAND,</hi> to the <hi>KING</hi> s most Excellent Majesty, to be Redressed in <hi>PARLIAMENT.</hi>
+               </head>
+               <p>THe Estates of the Kingdome of <hi>Scotland,</hi> Do Represent, that the Com<g ref="char:EOLhyphen"/>mittee of Parliament, Called the Articles, is a great Grievance to the Nation, and that there ought to be no Committees of Parliament, but such as are freely Chosen by the Estates, to prepare Motions and Overtures that are first made in the House.</p>
+               <p>That the first Act of Parliament 1669. Is inconsistent with the Establish<g ref="char:EOLhyphen"/>ment of the Church Government, now desired, and ought to be Abrogat<g ref="char:EOLhyphen"/>ed.</p>
+               <p>That Forefeitures in prejudice of Vassals, Creditors and Heirs of Entail, are a great Grievance.</p>
+               <p>That the obliging the Liedges to Depone upon Crimes against Delin<g ref="char:EOLhyphen"/>quents, otherwayes than when they are Adduced in special processes, as Witnesses, is a great Grievance.</p>
+               <p>That Assizes of Error are a Grievance, and that Juries be considered by Parliament.</p>
+               <p>That the eighteenth Act of Parliament 1681. Declaring a Cumulative Ju<g ref="char:EOLhyphen"/>risdiction, is a Grievance.</p>
+               <p>That the Commisiariot Courts, as they are now Constitute, are a Grie<g ref="char:EOLhyphen"/>vance.</p>
+               <pb n="31" facs="tcp:152916:17"/>
+               <p>That the Twenty seventh Act of Parliament 1663. Giving to the King Power to Impose Custom at pleasure, upon Forraign import and Trade, is a Grievance and prejudicial to the Trade of the Nation.</p>
+               <p>That the not taking an effectual Course to repress the Depredations and Robberies by the Highland Clans, is a Grievance.</p>
+               <p>That the Banishment by the Council of the greatest part of the Advocats from <hi>Edinburgh,</hi> without a process, was a Grievance.</p>
+               <p>That the most of the Laws Enacted in the Parliament <hi>Anno</hi> 1685. are Im<g ref="char:EOLhyphen"/>pious and Intollerable Grievances.</p>
+               <p>That the Marriage of a King or Queen of this Realm to a Papist, is Dan<g ref="char:EOLhyphen"/>gerous to the Protestant Religion, and ought to be provided against.</p>
+               <p>That the Levying, or keeping on Foot a standing Army in time of Peace, without consent of Parliament, is a Grievance.</p>
+               <p>That all Grievances relating to the Manner and Measure of the Leidges, their Representation in Parliament be Considered and Redressed in the first Parliament.</p>
+               <p>That the Grievances of the Burrows be considered and Redressed in the first Parliament.</p>
+            </div>
+            <div type="oath">
+               <head>The <hi>OATH</hi> taken by the <hi>King</hi> and <hi>Queen</hi> at Their Acceptance of the <hi>Grown</hi> of <hi>Scotland.</hi>
+               </head>
+               <p>WE WILLIAM and MARY, King and Queen of <hi>Scotland,</hi> Faith<g ref="char:EOLhyphen"/>fully Promise and Swear by this Our Solemn <hi>OAIH,</hi> in presence of the Eternal <hi>GOD,</hi> That during the whole Course of Our Life, We will Serve the same Eternal <hi>GOD,</hi> to the utmost of our Power, according as He has Required in his most Holy Word, Revealed and Contained in the Old and New Testaments; and according to the same Word, shall Main<g ref="char:EOLhyphen"/>tain the True Religion of Christ Jesus, the Preaching of His Holy Word, and the due and right Ministration of the Sacraments, now Received and Preached within the Realm of <hi>Scotland;</hi> and shall Abolish and Gainstand all False Religion, contrary to the same; and shall Rule the People com<g ref="char:EOLhyphen"/>mitted to Our Charge, according to the Will and Command of GOD, Re<g ref="char:EOLhyphen"/>vealed in His aforesaid Word, and according to the Love able Laws and
+<pb n="32" facs="tcp:152916:18"/> Constitutions, Received in this Realm, no ways Repugnant to the said Word of the Eternal GOD, and shall procure to the uttermost of Our Power, to the Kirk of God, and whole Christian People, true and perfect Peace, in all time coming, That We shall preserve and keep Inviolated the Rights and Rents, with all just priviledges of the Crown of <hi>Scotland;</hi> Nei<g ref="char:EOLhyphen"/>ther shall We Transfer nor Alienat the same; That We shall Forbid and Repress, in all Estates and Degrees, Reif, Oppression, and all kind of Wrong; And We shall command and procure, That Justice and Equity in all Judgments, be keeped to all persons without Exception, as the Lord and Father of all Mercies shall be merciful to Us: And We shall be Careful to Root out all Hereticks and Enemies to the true Worship of GOD, that shall be Convict by the True Kirk of GOD, of the foresaids Crimes, out of Our Lands and Empire of <hi>Scotland</hi> And We Faithfully Affirm the Things above written by Our Solemn Oath.</p>
+               <closer>
+                  <dateline>Signed by Us at <hi>Whitehall,</hi>
+                     <date>the Eleventh Day of <hi>May,</hi> one thousand six hundred fourscore and nine years.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>WILLIAM R.</item>
+                        <item>MARY R.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="document">
+               <opener>
+                  <dateline>At <hi>Edinburgh,</hi>
+                     <date>the 21 of <hi>June</hi> 1689.</date>
+                  </dateline>
+               </opener>
+               <p>HIs Majesties Commissioner, and the Estates of Parliament, Do ordain the Declaration of the Estates of this Kingdom, containing the claim of Right, and the offer of the Crown to their Majesties King <hi>William</hi> and Queen <hi>Mary;</hi> with the Grievances Represented by the Estates, and the Oath taken and Signed by the King and Queen, at their acceptance of the Crown, to be Printed.</p>
+               <closer>Extracted out of the Records of Parliament, by
+<signed>AL. GIBSON <hi>Cls.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>INIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:152916:18"/>
+            <head>THE INDEX. PAPERS Relating to ENGLAND.</head>
+            <list>
+               <item>
+                  <hi>THe Declaration of the Lords Spiritual and Temporal in and about the Cities of</hi> London <hi>and</hi> Westminster <hi>Assembled at</hi> Guild hall 11 December 1688. Page 1</item>
+               <item>
+                  <hi>The Lords Spiritual and Temporal Assembled at the House of Lord's</hi> Westminster December 25. 1688. <hi>Their desire to the Prince of</hi> Orange <hi>to take upon Him the Administration of publick Affairs till the meeting of the Convention.</hi> p. 3.</item>
+               <item>
+                  <hi>The saids Lords their Desire to his Highness to Issue out Writs for calling a Convention of Estates the</hi> 22 January 1689. p. 4</item>
+               <item>
+                  <hi>His Highness the Prince of</hi> Orange's <hi>Answer to the Lords Spiritual and Temporal at</hi> St. James's December 28. 1688. Ibid.</item>
+               <item>
+                  <hi>The Grievances of</hi> England, <hi>together with the offer of the</hi> CROWN <hi>to the Prince and Princess of</hi> Orange. <hi>With the Oath of Allegiance and Su<g ref="char:EOLhyphen"/>premacy.</hi> p. 5</item>
+               <item>
+                  <hi>His Majesties Gracious Answer thereto.</hi> p. 9</item>
+               <item>
+                  <hi>The Names of the Lords Spiritual and Temporal, who Deserted (not Protested) against the Word</hi> Abdicated <hi>and the Throne Vacant.</hi> Ibid.</item>
+               <item>
+                  <hi>An Account of the Proclaiming the King and Queen.</hi> p. 10</item>
+               <item>
+                  <hi>The Coronation Oath.</hi> p. 11</item>
+            </list>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:152916:19"/>
+            <head>THE INDEX. PAPERS Relating to SCOTLAND:</head>
+            <list>
+               <item>W <hi>and for Conveening the Nobility and Gentry of</hi> Scotland, <hi>at</hi> London <hi>for the time.</hi> page 13.</item>
+               <item>
+                  <hi>The Prince of</hi> Orange <hi>his Speech to the</hi> Scots <hi>Lords and Gentlemen, with their</hi> Address <hi>and his Highness</hi> Answer. <hi>With a true Account of what past at their Meeting in the Council Chamber at</hi> Whitehall Jan. 7 1689. p. 14</item>
+               <item>A <hi>Declaration by his Highness the Prince of</hi> Orange <hi>for keeping of the Peace,</hi> &amp;c. <hi>In the Kingdom of</hi> Scotland. p. 18</item>
+               <item>
+                  <hi>Copy of the Letters by the Prince of</hi> Orange <hi>to the three Estates of</hi> Scot<g ref="char:EOLhyphen"/>land <hi>for Sitting in the Meeting of Estates at</hi> Edinburgh 14 March 1689 p. 20</item>
+               <item>A <hi>Proclamation declaring</hi> William <hi>and</hi> Mary <hi>King and Queen of</hi> England <hi>to be King and Queen of</hi> Scotland. p. 23</item>
+               <item>
+                  <hi>The Declaration of the Estates of the Kingdom of</hi> Scotland; <hi>containing the Clam of Right and the Offer of the</hi> CROWN <hi>to their Majesties King</hi> William <hi>and Queen</hi> Mary. <hi>Together with the Grievances represented by the Estates, and their Majesties Oath at their Acceptance of the</hi> CROWN. p. 24</item>
+            </list>
+            <trailer>FINIS</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
